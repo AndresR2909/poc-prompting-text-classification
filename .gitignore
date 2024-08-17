@@ -1,0 +1,6 @@
+.venv
+.env
+*__pycache__*
+
+tokenizer-own
+Llama-3.1-8B-Instruct-own
